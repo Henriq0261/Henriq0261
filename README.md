@@ -6,7 +6,7 @@
     <meta charset="utf-8">
   </head>
   <body>
-    ##VEGETAL
+    <h1>##VEGETAL</h1>
     <img src="imagens/vegetal.jpg" />
   </body>
 </html>
