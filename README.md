@@ -1,4 +1,15 @@
 ## Hi there 👋
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>VEGETAL</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <h1>VEGETAL</h1>
+    <img src="imagens/vegetal.jpg" />
+  </body>
+</html>
 
 <!--
 **Henriq0261/Henriq0261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
