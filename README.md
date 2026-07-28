@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1>VEGETAL</h1>
-    <img src="imagens/apenascomece.jpg" />
+    <img src="imagens/apenascomece.jpeg" />
   </body>
 </html>
 
